@@ -1,6 +1,6 @@
 # Algorithm used in Stochastic Process
 ## The Algorithm I plan to put here:
-1. Rejection Sampling ( 12
+1. Rejection Sampling ( finished )
 2. EM Algorithm for HMM ( 15
 3. Metropolis Hasting Algorithm ( 12
 4. Backward Algorithm for HMM ( 14
@@ -11,3 +11,5 @@
 9. Gradient Descent with Backtracking linesearch (15
 10. Example of analyzing the snowfall data ( HW1, 5, 6
 11. Gibbs sampler ( 12
+==========================================================
+I save the program as html files in the "html output" folder, please feel free to check them. 
