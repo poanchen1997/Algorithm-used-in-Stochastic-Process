@@ -2,7 +2,7 @@
 ## The Algorithm I plan to put here:
 1. Rejection Sampling ( finished )
 2. EM Algorithm for HMM ( 15
-3. Metropolis Hasting Algorithm ( 12
+3. Metropolis Hasting Algorithm ( finished )
 4. Backward Algorithm for HMM ( 14
 5. Forward Algorithm for HMM ( 14
 6. Viterbi Algorithm ( 14
