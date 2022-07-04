@@ -10,6 +10,6 @@
 8. Gradient descent with constant step-size (15
 9. Gradient Descent with Backtracking linesearch (15
 10. Example of analyzing the snowfall data ( HW1, 5, 6
-11. Gibbs sampler ( 12
+11. Gibbs sampler ( finished )
 
 
