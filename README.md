@@ -5,7 +5,7 @@
 3. Metropolis Hasting Algorithm ( finished )
 4. Backward Algorithm for HMM ( finished )
 5. Forward Algorithm for HMM ( finished )
-6. Viterbi Algorithm ( 14
+6. Viterbi Algorithm ( finished )
 7. Baum Welch Algorithm ( 15
 8. Gradient descent with constant step-size (15
 9. Gradient Descent with Backtracking linesearch (15
